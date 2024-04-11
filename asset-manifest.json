@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noteesbook/static/css/main.0b5012f0.css",
+    "main.js": "/noteesbook/static/js/main.1ef9b0ca.js",
+    "static/js/787.b3cf2a4d.chunk.js": "/noteesbook/static/js/787.b3cf2a4d.chunk.js",
+    "index.html": "/noteesbook/index.html",
+    "main.0b5012f0.css.map": "/noteesbook/static/css/main.0b5012f0.css.map",
+    "main.1ef9b0ca.js.map": "/noteesbook/static/js/main.1ef9b0ca.js.map",
+    "787.b3cf2a4d.chunk.js.map": "/noteesbook/static/js/787.b3cf2a4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5012f0.css",
+    "static/js/main.1ef9b0ca.js"
+  ]
+}
